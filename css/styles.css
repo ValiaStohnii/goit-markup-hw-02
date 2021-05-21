@@ -1,0 +1,32 @@
+body {
+  background-color: #ffff;
+  color: #757575;
+}
+
+ul {
+  list-style: none;
+}
+
+/* COLOR */
+/* основний колір тексту  #75757 */
+/* колір тексту заголовків #212121 */
+/* колір link #2196F3 */
+/* COLOR */
+
+/*HEADER*/
+
+.nav-list a {
+  color: #212121;
+}
+.nav-list a:hover,
+.contacts-list:hover {
+  color: #2196f3;
+}
+.logo {
+  color: #2196f3;
+}
+.contacts-list {
+  color: #75757;
+}
+
+/*HEADER*/
