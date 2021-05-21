@@ -8,6 +8,7 @@ ul {
 }
 
 /* COLOR */
+
 /* основний колір тексту  #75757 */
 /* колір тексту заголовків #212121 */
 /* колір link #2196F3 */
@@ -30,3 +31,44 @@ ul {
 }
 
 /*HEADER*/
+
+/*HERO SECTION*/
+.hero {
+  background-color: #2f303a;
+  color: #ffff;
+}
+.hero-button {
+  color: #ffff;
+}
+/*HERO SECTION*/
+
+/*Features*/
+.features-list .title {
+  color: #212121;
+}
+/*Features*/
+
+/*IMG-SECTION*/
+.caption {
+  color: #212121;
+}
+/*IMG-SECTION*/
+
+/*TEAM SECTION*/
+
+.name {
+  color: #212121;
+}
+.our-team {
+  background-color: #f5f4fa;
+}
+/*TEAM SECTION*/
+
+/*FOOTER*/
+.footer {
+  background-color: #2f303a;
+}
+.address {
+  color: #ffff;
+}
+/*FOOTER*/
